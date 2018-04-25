@@ -1,4 +1,4 @@
-,RollType,strength,dexterity,constituion,intellegence,wisdom,charisma,str mod,dex mod,con mod,int mod,wis mod,char mod
+,roll_type,strength,dexterity,constitution,intellegence,wisdom,charisma,str mod,dex mod,con mod,int mod,wis mod,char mod
 0,3D6,14,15,9,7,6,9,2,2,-1,-2,-2,-1
 1,3D6,13,7,15,8,15,7,1,-2,2,-1,2,-2
 2,3D6,8,4,11,12,10,5,-1,-3,0,1,0,-3
